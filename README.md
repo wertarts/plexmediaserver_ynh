@@ -1,7 +1,7 @@
 # Plex app for YunoHost
 Plex Media Server
 
-Shipped version: 1.18.0.1944
+Shipped version: 1.18.2.2058
 
 - [Yunohost project](https://yunohost.org)
 - [Plex website](https://plex.tv/)
