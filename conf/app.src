@@ -1,7 +1,0 @@
-SOURCE_URL=https://downloads.plex.tv/plex-media-server-new/1.19.3.2764-ef515a800/debian/plexmediaserver_1.19.3.2764-ef515a800_amd64.deb
-SOURCE_SUM=6a79fedbab4d3030ecec60d11105a97bcf97c0d323cf0a57e59e8ea6f53c297a48573f71e10d78ea21672582d35e94edfa4435e31f120db2f19fc57e44052405
-SOURCE_SUM_PRG=sha512sum
-SOURCE_FORMAT=deb
-SOURCE_IN_SUBDIR=false
-SOURCE_EXTRACT=false
-SOURCE_FILENAME=plexmediaserver.deb
