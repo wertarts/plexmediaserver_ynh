@@ -6,7 +6,7 @@
         "en": "PlexMediaServer package for YunoHost.",
         "fr": "PlexMediaServer pour YunoHost."
     },
-    "version": "1.19.3.2764",
+    "version": "1.19.3.2843",
     "url": "http://plex.tv/",
     "license": "non-free",
     "maintainer": {
