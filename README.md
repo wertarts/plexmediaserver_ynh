@@ -25,7 +25,7 @@ Shipped version: 1.19.3.2843
    
    - `ssh admin@ip.address.of.server -L 8888:localhost:32400`
    
-   or
+      or
    
    - `ssh -l admin -L 8888:127.0.0.1:32400 ip.address.of.server`
    
