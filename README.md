@@ -23,11 +23,11 @@ Shipped version: 1.19.3.2843
    1. Open a Terminal window or your command prompt
    2. Enter the following command (substituting the IP address of your server as appropriate) :
    
-   `ssh admin@ip.address.of.server -L 8888:localhost:32400`
+      `ssh admin@ip.address.of.server -L 8888:localhost:32400`
    
    or
    
-   `ssh -l admin -L 8888:127.0.0.1:32400 ip.address.of.server`
+      `ssh -l admin -L 8888:127.0.0.1:32400 ip.address.of.server`
    
    3. Open a browser window
    4. Type http://localhost:8888/web into the address bar
