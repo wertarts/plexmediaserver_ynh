@@ -101,7 +101,8 @@ esac
 # INSTALL PLEX
 #==============================================
 
-dpkg --install "$final_path"/plexmediaserver*
+dpkg --install "$final_path"/plexmediaserver.deb
+rm -f "$final_path"/plexmediaserver.deb
 
 #=================================================
 # NGINX CONFIGURATION
