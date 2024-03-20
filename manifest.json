@@ -40,8 +40,8 @@
                     "en": "Choose a path for PlexMediaServer only /web is accepted",
                     "fr": "Choisissez un chemin pour PlexMediaServer uniquement /web est accepté"
                 },
-                "example": "/plex",
-                "default": "/plex"
+                "example": "/web/index.html",
+                "default": "/web/index.html"
             },
             
             {
